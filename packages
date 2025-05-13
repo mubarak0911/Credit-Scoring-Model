@@ -1,0 +1,6 @@
+ pandas 
+ librosa
+ numpy 
+ matplotlib 
+ scikit-learn
+ faker
